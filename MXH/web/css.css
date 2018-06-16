@@ -1,0 +1,81 @@
+body{
+    padding: 70px 0px 5px 0px;
+    background-image:url(img/background3.jpg);   
+    background-repeat: none;
+}
+
+hr{
+    color:black;
+}
+#formdangnhap, #taotk,#quenmatkhau{
+    padding: 30px 30px;
+    float: right;
+    width: 500px;
+    background: #FFF5EE;
+    border: gray double 3px;
+}
+
+#welcome{
+    padding-top: 20px;
+    float: left;
+    font-size: 23px;
+    color:#8B7E66;
+}
+
+#logo {
+    float: left;
+}
+
+.taotaikhoan{
+}
+
+#caidatleft{
+    padding-top: 20px;
+    width: 170px;
+}
+
+#caidatleft a{
+    color: black;
+    text-decoration: none;
+}
+
+#caidatleft p:hover {
+    background-color: #CD853F;
+}
+
+#ttcnright{
+    width:900px;
+}
+
+#ttcnright tr:hover {
+    background-color: #EEE9E9;
+}
+#ttcnright a{
+   color:black;
+   text-decoration: none;
+}
+#ttdnright{
+    width: 900px;
+    padding: 40px 200px;
+}
+#dmkright{
+    padding: 35px;
+}
+
+.panel{
+   margin: 5px 0px;
+}
+
+#footer{
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: gray;
+   text-align: center;
+   padding-bottom: 2px;
+}
+
+.catogory p{
+    font-size: 20px;
+}
